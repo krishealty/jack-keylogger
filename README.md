@@ -25,3 +25,7 @@ python3 keylogger.py
 
 • Get hardware Data from the Target Computer every 10 seconds.
 • The program will destroy itself if the target tries to find the email client.
+
+## ANTIVIRUS TEST
+
+Program is clean, virus free and safe to use.
