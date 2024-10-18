@@ -11,7 +11,7 @@ This program supports:
 
 Note: **You need to add your SMTP USERNAME and SMTP PASSWORD of the email client in the file "keylogger.py" before using.** (refer below screenshot)
 
-<img src="image/1.jpg">
+<img src="image/3.jpg">
 
 (you can create an email client from "https://mailtrap.io/" using a temp mail.)
 
